@@ -1,4 +1,4 @@
-package com.primeton.abstractfactory;
+package com.primeton.abstractfac.factory;
 
 /**
  * Created by Administrator on 16-4-2.
