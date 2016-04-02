@@ -22,7 +22,7 @@ class LuxuryEngine implements Engine {
     }
 }
 
-class LuxuryEngine implements Engine {
+class LowEngine implements Engine {
 
     @Override
     public void run() {
