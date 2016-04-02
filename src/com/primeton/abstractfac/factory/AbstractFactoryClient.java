@@ -1,6 +1,7 @@
 package com.primeton.abstractfac.factory;
 
 /**
+ * 抽象工厂调用类
  * Created by Administrator on 16-4-2.
  */
 public class AbstractFactoryClient {
