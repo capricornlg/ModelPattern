@@ -3,6 +3,9 @@ package com.primeton.pattern.adapter;
 /**
  * 适配器
  * Created by Administrator on 16-4-3.
+ * 适配器使用场景
+ * java.io.InputSreamReader(InputStream)
+ * java.io.OutputStreamWriter(OutputStream)
  */
 public class Client {
 
