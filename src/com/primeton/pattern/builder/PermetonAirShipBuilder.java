@@ -4,7 +4,7 @@ package com.primeton.pattern.builder;
  * StringBuilder xml解析中的JDOM库中的：DomBuilder，SaxBuilxder
  * Created by Administrator on 16-4-3.
  */
-public class PermetonAirShip implements AirShipBuilder{
+public class PermetonAirShipBuilder implements AirShipBuilder{
     @Override
     public OrbitalModule buildOrbitalModule() {
         System.out.println("构建普元牌轨道舱");

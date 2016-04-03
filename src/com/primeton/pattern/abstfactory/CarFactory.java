@@ -1,4 +1,4 @@
-package com.primeton.abstractfac.factory;
+package com.primeton.pattern.abstfactory;
 
 /**
  * 抽象工厂

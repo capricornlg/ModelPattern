@@ -1,21 +1,21 @@
-package com.primeton.abstractfac.factory;
+package com.primeton.pattern.abstfactory;
 
 /**
  * Created by Administrator on 16-4-2.
  */
-public class LowCarFactory implements CarFactory {
+public class LuxuryCarFactory implements CarFactory {
     @Override
     public Engine createEngine() {
-        return new LowEngine();
+        return new LuxuryEngine();
     }
 
     @Override
     public Seat createSeat() {
-        return new LowSeat();
+        return new LuxurySeat();
     }
 
     @Override
     public Tyre createTyre() {
-        return new LowTyre();
+        return new LuxuryTyre();
     }
 }
